@@ -1,5 +1,5 @@
-{{ if and (gt (len .Site.Languages) 1) .IsHome }} {{ range where .Site.Languages
-"LanguageName" "!=" $.Site.Language.LanguageName }}
+{{ if and (gt (len site.Languages) 1) .IsHome }} {{ range where site.Languages
+"LanguageName" "!=" site.Language.LanguageName }}
 <link rel="alternate" hreflang="{{.}}" href="{{ . | absURL }}" />
 {{ end }} {{ else }} {{ range .Params.Alternatives }}
 <link rel="alternate" hreflang="{{.code}}" href="{{ .url | absURL }}" />

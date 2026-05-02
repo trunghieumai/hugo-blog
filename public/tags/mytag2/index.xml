@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mytag2 on Path to Wisdom by Michel Hieu</title>
+    <link>//localhost:1313/tags/mytag2/</link>
+    <description>Recent content in Mytag2 on Path to Wisdom by Michel Hieu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Jul 2020 11:51:09 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/mytag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Call me Michel Hieu!</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 05 Jul 2020 11:51:09 +0700</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my personal information to test the site on my local machine.&#xA;Hello, this is Hieu Mai and welcome to my digital home where I write about my life and cool stuffs.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

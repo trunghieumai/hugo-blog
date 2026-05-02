@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Path to Wisdom by Michel Hieu</title>
+    <link>//localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Path to Wisdom by Michel Hieu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 05 Jul 2020 11:47:07 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/blog/my-first-post/</link>
+      <pubDate>Sun, 05 Jul 2020 11:47:07 +0700</pubDate>
+      <guid>//localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;p&gt;This is a simple text to test the site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My new Brother printer</title>
+      <link>//localhost:1313/blog/my-new-printer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/my-new-printer/</guid>
+      <description>&lt;p&gt;This is my second post on this blog.&#xA;Yerterday, I brought a new printer from Brother after several days comparing and checking price.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

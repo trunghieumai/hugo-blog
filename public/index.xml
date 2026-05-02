@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Path to Wisdom by Michel Hieu</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Path to Wisdom by Michel Hieu</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 15 Feb 2024 12:14:54 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Today is still Tet Holiday</title>
+      <link>//localhost:1313/holiday/</link>
+      <pubDate>Thu, 15 Feb 2024 12:14:54 +0700</pubDate>
+      <guid>//localhost:1313/holiday/</guid>
+      <description>&lt;p&gt;This is the first time I oepn the laption since last week&#xA;fsdagsofdiugli&#xA;fksdjghsldkjghldskf&lt;/p&gt;&#xA;&lt;p&gt;{{- partial &amp;ldquo;post/toc.html&amp;rdquo; . }}&lt;/p&gt;&#xA;&lt;h2 id=&#34;heading-1&#34;&gt;Heading 1&lt;/h2&gt;&#xA;&lt;p&gt;flkdasjf&#xA;fdsfsd&lt;/p&gt;&#xA;&lt;h3 id=&#34;heading-2&#34;&gt;Heading 2&lt;/h3&gt;&#xA;&lt;p&gt;fsdafds&#xA;fsdgfdsh&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Call me Michel Hieu!</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Sun, 05 Jul 2020 11:51:09 +0700</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>&lt;p&gt;This is my personal information to test the site on my local machine.&#xA;Hello, this is Hieu Mai and welcome to my digital home where I write about my life and cool stuffs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>//localhost:1313/blog/my-first-post/</link>
+      <pubDate>Sun, 05 Jul 2020 11:47:07 +0700</pubDate>
+      <guid>//localhost:1313/blog/my-first-post/</guid>
+      <description>&lt;p&gt;This is a simple text to test the site.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archives</title>
+      <link>//localhost:1313/archive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/archive/</guid>
+      <description>This is Archives page</description>
+    </item>
+    <item>
+      <title>My new Brother printer</title>
+      <link>//localhost:1313/blog/my-new-printer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/blog/my-new-printer/</guid>
+      <description>&lt;p&gt;This is my second post on this blog.&#xA;Yerterday, I brought a new printer from Brother after several days comparing and checking price.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

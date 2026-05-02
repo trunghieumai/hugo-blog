@@ -1,6 +1,6 @@
 <div class="footer__languages">
-    {{ if gt (len .Site.Languages) 1 }} {{ range .Site.Languages }} {{ if eq
-    .LanguageName $.Site.Language.LanguageName }}
+    {{ if gt (len site.Languages) 1 }} {{ range site.Languages }} {{ if eq
+    .LanguageName site.Language.LanguageName }}
     <strong>{{ .LanguageName }}</strong>
     {{ else }}
     <a href="{{ . | absURL }}" data-rel="prefetch">{{ .LanguageName }}</a>
